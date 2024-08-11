@@ -54,18 +54,3 @@ The project consists of the following files:
 2. **style.css**: The CSS file that styles the page.
 3. **script.js**: The JavaScript file that contains the logic for the hoverboard effect.
 
-### index.html
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <title>Hoverboard</title>
-  </head>
-  <body>
-    <div class="container" id="container"></div>
-    <script src="script.js"></script>
-  </body>
-</html>
