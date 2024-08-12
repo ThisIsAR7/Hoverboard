@@ -6,7 +6,7 @@ This project creates a dynamic hoverboard effect using HTML, CSS, and JavaScript
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+
 
 ## Demo
 
