@@ -11,7 +11,6 @@ This project creates a dynamic hoverboard effect using HTML, CSS, and JavaScript
 
 ## Demo
 
-To see a live demo of the hoverboard, open the `index.html` file in a web browser. You will see a grid of squares that change color and glow when you hover over them.
 
 ## Features
 
